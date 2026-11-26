@@ -1,4 +1,4 @@
-# Trails in the Sky 2nd Remake Bilingual Full Voice Mod Scuffed
+# Trails in the Sky 2nd Remake Bilingual Full Voice Mod
 
 Personal Project for Reading/Listening Japanese while on English Mode + Schera/Agate counterpart dialogue.
 
